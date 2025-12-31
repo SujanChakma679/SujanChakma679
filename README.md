@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I’m an aspiring frontend developer currently living in Japan 🇯🇵.  
+I’m an aspiring frontend developer currently living in Kyoto,Japan.  
 I’m passionate about building clean, user-friendly web interfaces and continuously improving my technical skills.  
 I come from a non-traditional background, which has made me resilient, disciplined, and highly motivated to grow in tech.  
 I enjoy learning by building real projects and improving step by step.
@@ -55,17 +55,12 @@ I enjoy learning by building real projects and improving step by step.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujanchakma&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujanchakma&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujanchakma&theme=tokyonight&hide_border=true" />
-</p>
+- 🔥 **Contribution Streak:** Actively maintaining consistency in learning and coding  
+- 🧠 **Primary Languages:** HTML, CSS, JavaScript  
+- ⚛️ **Frameworks & Libraries:** React, Next.js (learning)  
+- 📈 **Focus Areas:** Frontend development, UI/UX, modern web technologies  
+- 🛠️ **Workflow:** Git, GitHub, VS Code  
+- 🚀 **Current Goal:** Build real-world projects and strengthen frontend fundamentals
 
 
 ---
