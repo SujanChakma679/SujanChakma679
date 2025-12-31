@@ -20,7 +20,7 @@ I enjoy learning by building real projects and improving step by step.
 ## 🚀 Current Activities
 
 - 🌱 Exploring **Next.js** and modern frontend development  
-- 🏗️ Working on a **tourism-related website project**  
+- 🏗️ Working on a **e-commerce website project**  
 - 📚 Strengthening my fundamentals in **HTML, CSS, and JavaScript**  
 - 💡 Learning how to build real-world web applications
 
@@ -43,14 +43,11 @@ I enjoy learning by building real projects and improving step by step.
 ## 🔗 Connect With Me
 
 <p>
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/your-github-username" target="https://github.com/SujanChakma679">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="https://www.linkedin.com/in/sujan-chakma-a30256177/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/your-twitter-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
