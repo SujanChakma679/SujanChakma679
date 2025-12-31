@@ -43,10 +43,10 @@ I enjoy learning by building real projects and improving step by step.
 ## 🔗 Connect With Me
 
 <p>
-  <a href="https://github.com/your-github-username" target="https://github.com/SujanChakma679">
+  <a href="https://github.com/SujanChakma679" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="https://www.linkedin.com/in/sujan-chakma-a30256177/">
+  <a href="https://www.linkedin.com/in/sujan-chakma-a30256177/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
@@ -56,16 +56,17 @@ I enjoy learning by building real projects and improving step by step.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sujanchakma&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujanchakma&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujanchakma&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
